@@ -1,5 +1,5 @@
 public with sharing class MyNewClass {
-    public MyNewClass() {
+    public static void show() {
 
     }
 }
